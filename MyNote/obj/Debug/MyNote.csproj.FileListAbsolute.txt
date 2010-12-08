@@ -1,0 +1,10 @@
+D:\MyNote\MyNote\bin\Debug\MyNote.exe
+D:\MyNote\MyNote\bin\Debug\MyNote.pdb
+D:\MyNote\MyNote\obj\Debug\ResolveAssemblyReference.cache
+D:\MyNote\MyNote\obj\Debug\MyNote.MAIN.resources
+D:\MyNote\MyNote\obj\Debug\MyNote.Properties.Resources.resources
+D:\MyNote\MyNote\obj\Debug\MyNote.csproj.GenerateResource.Cache
+D:\MyNote\MyNote\obj\Debug\MyNote.exe
+D:\MyNote\MyNote\obj\Debug\MyNote.pdb
+D:\MyNote\MyNote\obj\Debug\MyNote.AddNewSubject.resources
+D:\MyNote\MyNote\bin\Debug\MyNote.exe.config
